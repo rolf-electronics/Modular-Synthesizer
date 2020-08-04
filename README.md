@@ -3,12 +3,12 @@ Self build Synthesizer with what I can find on the internet
 
 The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and an extra opamp for *level offset* and *span* adjustment and a last stage opamp for inverting the signal.
 
-* **First Pictures**
-* **https://github.com/rolf-electronics/Modular-Synthesizer/issues/1**
+**First Pictures**
+**https://github.com/rolf-electronics/Modular-Synthesizer/issues/1**
 
-* **Video of the different Wave types**
-* **https://youtu.be/yQFZsXjjzXU**
-* (video quality can be better)
+**Video of the different Wave types**
+**https://youtu.be/yQFZsXjjzXU**
+(video quality can be better)
 
 * Green dial   (a rotary encoder) is for selecting a wavetype, currently 43 types available
 * White dials  are for the LFO range(a rotary encoder) and frequency(a potmeter)
