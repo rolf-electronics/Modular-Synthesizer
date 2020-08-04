@@ -5,4 +5,5 @@ The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and extr
 
 https://github.com/rolf-electronics/Modular-Synthesizer/issues/1
 
-![alt tag](https://github.com/rolf-electronics/Modular-Synthesizer/issues/1/LFO breadboard.JPG)
+https://github.com/rolf-electronics/Modular-Synthesizer/issues/1/LFO breadboard.JPG
+
