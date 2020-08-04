@@ -5,7 +5,7 @@ The **LFO** is based on an **Arduino Uno** with a **Sallen Key low pass filter**
 
 **First Pictures** **https://github.com/rolf-electronics/Modular-Synthesizer/issues/1**
 
-![LFO faceplate](https://user-images.githubusercontent.com/64435848/89296148-3d314680-d662-11ea-8227-97217c828683.JPG)
+![LFO faceplate](https://user-images.githubusercontent.com/64435848/89296541-c47eba00-d662-11ea-9461-e2585dc7a448.JPG)
 
 
 **Video of the different Wave types** **https://youtu.be/yQFZsXjjzXU**
