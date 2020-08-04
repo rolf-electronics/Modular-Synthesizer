@@ -29,4 +29,4 @@ Output jack on the bottom right, fixed 0-10 volt.
 In **ADSR mode** the yellow rotary encoder selects A - D - S or R, with the pushbuttons the levels can be increased and decreased.
 
 * Top LED is for LFO frequency and level indication.
-* Mid LED is over or under range when using the rotary encoders.
+* Mid LED is over or under range when using the rotary encoders. (and should be placed a little more to the right for the next one)
