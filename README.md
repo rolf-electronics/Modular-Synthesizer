@@ -9,7 +9,7 @@ The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and two 
 (video quality can be better)
 
 * Green dial   (a rotary encoder) is for selecting a wavetype, currently 43 types are available
-* White dials  are for the LFO range(a rotary encoder) and frequency(a potmeter)
+* White dials  are for the LFO range (a rotary encoder) and frequency (a potmeter)
 * Yellow dial  (a rotary encoder ) is for distortion (still to be programmed)
 * Blue dials   are for voltage level offset and range
 
