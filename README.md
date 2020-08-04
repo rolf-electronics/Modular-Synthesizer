@@ -1,7 +1,7 @@
 # Modular-Synthesizer
 Self build Synthesizer with what I can find on the internet
 
-The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and two opamps One for *level offset* and *span* adjustment and a last stage opamp for inverting the signal.
+The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and two opamps. One for *level offset* and *span* adjustment and a last stage opamp for inverting the signal.
 
 **First Pictures** **https://github.com/rolf-electronics/Modular-Synthesizer/issues/1**
 
