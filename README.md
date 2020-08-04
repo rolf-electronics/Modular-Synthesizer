@@ -15,9 +15,9 @@ The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and two 
 
 The switch is for free running or synch mode.
 
-Output on top is LFO output
-Output bottom left, synch in
-Output bottom right, fixed 0-10 volt
+Output jack on top is LFO output. 
+Output jack on the bottom left is synch in. 
+Output jack on the bottom right, fixed 0-10 volt.
 
 * The **green**  rotary encoder has a switch. Pushing is sets wave type to no 0, which is a triangle.
 * The **grey**   rotary encoder has a switch. Pushing is sets wave type to mid range, type 21 for now.
