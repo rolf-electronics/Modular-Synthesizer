@@ -6,6 +6,9 @@ The **LFO** is based on an **Arduino Uno** with a **Sallen Key filter** and an e
 **First Pictures**
 **https://github.com/rolf-electronics/Modular-Synthesizer/issues/1**
 
+**Video of the different Wave types**
+https://studio.youtube.com/video/yQFZsXjjzXU/edit/basic
+
 Green dial   (a rotary encoder) is for selecting a wavetype, currently 43 types available
 White dials  are for the LFO range(a rotary encoder) and frequency(a potmeter)
 Yellow dials (a rotary encode )is for distortion (still to be programmed)
