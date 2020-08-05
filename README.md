@@ -4,9 +4,11 @@ Self build Synthesizer with what I can find on the internet
 The **LFO** is based on an **Arduino Uno** with a **Sallen Key low pass filter** and two opamps. One for *level offset* and *span* adjustment and a last stage opamp for inverting the signal.
 
 **First Pictures** **https://github.com/rolf-electronics/Modular-Synthesizer/issues/1**
-
+Faceplate
 ![LFO faceplate](https://user-images.githubusercontent.com/64435848/89296541-c47eba00-d662-11ea-9461-e2585dc7a448.JPG)
 
+The almost full bread board model
+![DSCF8330](https://user-images.githubusercontent.com/64435848/89454321-cfb80f80-d760-11ea-9655-173efd9ca126.JPG)
 
 **Video of the different Wave types** **https://youtu.be/yQFZsXjjzXU**
 (video quality can be better)
